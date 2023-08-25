@@ -7,5 +7,6 @@ Windows, Linux, Macos(amd64, arm64) are checked. Should work everywhere, where d
 
 ```shell
 git clone https://github.com/nfrmtk/ratings-deploy.git
+cd ratings-deploy
 docker-compose up
 ```
